@@ -20,7 +20,6 @@ The project follows an end-to-end data analysis workflow, including data underst
 
 - [📖 About this Project](#-about-this-project)
 - [🎯 Project Objectives](#-project-objectives)
-- [📊 Dataset](#-dataset)
 - [🛠️ Tools & Technologies](#️-tools--technologies)
 - [🔄 Project Workflow](#-project-workflow)
 - [❓ Business Questions](#-business-questions)
@@ -72,7 +71,6 @@ The dataset includes information such as:
 - Pandas
 - NumPy
 - SciPy
-- SQL
 - Jupyter Notebook
 - Power BI
 - Git
@@ -169,7 +167,6 @@ saudi-job-market-analysis/
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 └── .gitignore
 ```
 
