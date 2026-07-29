@@ -2,8 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-336791?logo=postgresql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-4CAF50)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+
 
 ![Dashboard Preview](images/dashboard.png)
 
