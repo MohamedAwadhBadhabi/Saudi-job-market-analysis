@@ -8,7 +8,7 @@
 
 ![Dashboard Preview](images/dashboard.png)
 
-## 📖 About this Project
+##  About this Project
 
 This project explores the Saudi Arabian job market by analyzing job postings to identify hiring trends across regions, industries, gender requirements, employment contract types, and experience levels.
 
@@ -16,22 +16,22 @@ The project follows an end-to-end data analysis workflow, including data underst
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
-- [📖 About this Project](#-about-this-project)
-- [🎯 Project Objectives](#-project-objectives)
-- [🛠️ Tools & Technologies](#️-tools--technologies)
-- [🔄 Project Workflow](#-project-workflow)
-- [❓ Business Questions](#-business-questions)
-- [📈 Dashboard Features](#-dashboard-features)
-- [💡 Key Insights](#-key-insights)
-- [📂 Repository Structure](#-repository-structure)
-- [🚀 Future Improvements](#-future-improvements)
-- [📜 License](#-license)
+- [ About this Project](#-about-this-project)
+- [ Project Objectives](#-project-objectives)
+- [ Tools & Technologies](#️-tools--technologies)
+- [ Project Workflow](#-project-workflow)
+- [ Business Questions](#-business-questions)
+- [ Dashboard Features](#-dashboard-features)
+- [ Key Insights](#-key-insights)
+- [ Repository Structure](#-repository-structure)
+- [ Future Improvements](#-future-improvements)
+- [ License](#-license)
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The objectives of this project are to:
 
@@ -45,7 +45,7 @@ The objectives of this project are to:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset consists of job postings collected from the Saudi Arabian job market.
 
@@ -65,7 +65,7 @@ The dataset includes information such as:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -78,7 +78,7 @@ The dataset includes information such as:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. Data Understanding
 2. Data Cleaning
@@ -90,7 +90,7 @@ The dataset includes information such as:
 
 ---
 
-## ❓ Business Questions
+##  Business Questions
 
 This project aims to answer the following business questions:
 
@@ -105,7 +105,7 @@ This project aims to answer the following business questions:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### KPI Cards
 
@@ -114,7 +114,7 @@ This project aims to answer the following business questions:
 - Total Regions
 - Average Experience
 
-### 📊 Interactive Visualizations
+###  Interactive Visualizations
 
 - Job Postings by Region
 - Job Postings by City
@@ -129,7 +129,7 @@ This project aims to answer the following business questions:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 Some of the main findings include:
 
@@ -142,7 +142,7 @@ Some of the main findings include:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 saudi-job-market-analysis/
@@ -172,7 +172,7 @@ saudi-job-market-analysis/
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Future enhancements may include:
 
@@ -184,6 +184,6 @@ Future enhancements may include:
 
 ---
 
-## 📜 License
+##  License
 
 This project is intended for educational and portfolio purposes.
